@@ -1,0 +1,2 @@
+This is simple speed typing test in Python
+This is another sentence that you need to type
